@@ -1,6 +1,6 @@
 central_policy:
-  - name: newtestpolicy
-    project_id: sami-islam-project101-dev
+  - name: cloudarmorpolicy
+    project_id: test-02-12345
     description: "This is a test for cloud armor factory second"
     json_parsing: "STANDARD"
     layer_7_ddos_defense_enable: true
