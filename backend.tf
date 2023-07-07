@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "sami600"
+    organization = "0"
 
     workspaces {
       name = "cloud_armor_factory"
