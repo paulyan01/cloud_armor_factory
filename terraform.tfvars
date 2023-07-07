@@ -1,4 +1,4 @@
-project_id = "sami-islam-project101-dev"
+project_id = "test-02-12345"
 region = "northamerica-northeast1"
-policy_name = "sami-test-policy"
+policy_name = "cloudarmorpolicy"
 policy_description = "Security Policy Description"
